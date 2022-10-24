@@ -1,0 +1,10 @@
+tr, th{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+tr,
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
